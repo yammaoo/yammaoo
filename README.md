@@ -1,4 +1,7 @@
-## Hi there 👋
+## About Me
+
+Hello there, my name is Mahad Odowa, I specialize in Computer Science, Artificial Intelligence, and Cybersecurity, with a passion for leveraging programming, AI, and ethical hacking to tackle real-world problems. My experience spans software development, database management, and UI/UX design, underpinned by a solid foundation in algorithm optimization and IT security. I am also deeply involved in Game Development. As an experienced leader and collaborative team member, I actively contribute to academic clubs and technical projects, constantly striving to expand my skill set and make a meaningful impact.
+
 
 <!--
 **yammaoo/yammaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
